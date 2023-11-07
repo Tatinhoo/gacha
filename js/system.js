@@ -14,6 +14,7 @@ var items = [
 
     // 4 Estrelas
     { name: "Indo Ali", rarity: 4, image: "./img/splashArt/indoali.png" , rarityImage: "./img/rarity/4_stars.png" },
+    { name: "Dani Polarcub", rarity: 4, image: "./img/splashArt/polarcub.png" , rarityImage: "./img/rarity/4_stars.png" },
     { name: "Pinto Depressivo", rarity: 4, image: "./img/splashArt/punpun.png" , rarityImage: "./img/rarity/4_stars.png" },
     { name: "Bia 69 Cartas", rarity: 4, image: "./img/splashArt/bia69.png" , rarityImage: "./img/rarity/4_stars.png" },
     { name: "Gato Validação", rarity: 4, image: "./img/splashArt/gatovalidation.png" , rarityImage: "./img/rarity/4_stars.png" },
@@ -25,7 +26,6 @@ var items = [
 
     // 3 Estrelas
     { name: "Paimon", rarity: 3, image: "./img/splashArt/paimon.png" , rarityImage: "./img/rarity/3_stars.png" },
-    { name: "Dani Polarcub", rarity: 5, image: "./img/splashArt/polarcub.png" , rarityImage: "./img/rarity/5_stars.png" },
 ];
 
 var pity = 10;
