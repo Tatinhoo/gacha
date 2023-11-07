@@ -25,7 +25,7 @@ var items = [
 
     // 3 Estrelas
     { name: "Paimon", rarity: 3, image: "./img/splashArt/paimon.png" , rarityImage: "./img/rarity/3_stars.png" },
-    { name: "Dani Polarcub", rarity: 4, image: "./img/splashArt/polarcub.png" , rarityImage: "./img/rarity/3_stars.png" },
+    { name: "Dani Polarcub", rarity: 5, image: "./img/splashArt/polarcub.png" , rarityImage: "./img/rarity/5_stars.png" },
 ];
 
 var pity = 10;
